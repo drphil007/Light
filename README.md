@@ -4,8 +4,8 @@ App that changes the screen from black to white and back at the tap of a button,
 Made in Xcode 9.2 
 
 Usage
-- Code to change the screen from black to white is in ViewController.swift
-- Layout for button linked to code is in Main.sotryboard.swift
+- Code to change the screen from black to white is in ViewController.swift in file Light
+- Layout for button linked to code is in Main.sotryboard.swift in file Light
 
 - ViewController.swift and Main.storyboard.swift are linked trough the buttonPressed(), which is the button
 that changes the background color of the view. butonPressed calls on updateUI() which changes the backgroundColor.
