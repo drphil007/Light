@@ -12,7 +12,7 @@ that changes the background color of the view. butonPressed calls on updateUI() 
 
 - Pressing the button in Main.storyboard.swift, simulator or your iphone/ipad changes the background color of view 
 from black to white and back. Click Build and Running in Xcode to see in action. 
-See screenshots in doc to see examples of app on iphone. 
+See screenshots light-ff.png and light-on.png to see examples of app on iphone. 
 
 Prerequisites
 - latest version of Mac OS system 
