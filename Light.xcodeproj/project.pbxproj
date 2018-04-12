@@ -278,7 +278,7 @@
 				DEVELOPMENT_TEAM = 62Q48WQBH7;
 				INFOPLIST_FILE = Light/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Light;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Light.identifier;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,7 +293,7 @@
 				DEVELOPMENT_TEAM = 62Q48WQBH7;
 				INFOPLIST_FILE = Light/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Light;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Light.identifier;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
